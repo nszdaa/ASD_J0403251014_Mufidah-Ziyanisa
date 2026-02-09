@@ -1,0 +1,10 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,SusuKotak,12
+BRG005,HiloTeen,18
+BRG006,MieInstan,25
+BRG007,RomaKelapa,14
+BRG008,KapalApi,30
+BRG009,Permen,40
+BRG010,TehGelas,22

@@ -6,8 +6,7 @@ class Node:
         self.data = data
         self.next = None
         self.prev = None
-
-
+        
 # ===============================
 # Class Doubly Linked List
 # ===============================
@@ -81,3 +80,4 @@ DLL.display()
 DLL.delete_node(20)
 print("Setelah dihapus 20:")
 DLL.display()
+

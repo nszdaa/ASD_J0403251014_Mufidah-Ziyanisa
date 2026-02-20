@@ -11,6 +11,7 @@ TUGAS PRAKTIKUM ALGORITMA DAN STRUKTUR DATA
    - stok_barang
    - tugas 1
 3. Praktikum 3
-   - Latihan 1
-   - Latihan 2
-   - Latihan 4
+   - Latihan1
+   - Latihan2
+   - Latihan4
+4. Praktikum 4

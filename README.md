@@ -15,3 +15,7 @@ TUGAS PRAKTIKUM ALGORITMA DAN STRUKTUR DATA
    - Latihan2
    - Latihan4
 4. Praktikum 4
+   - Queue
+   - Stack
+   - Linkedlist
+     
